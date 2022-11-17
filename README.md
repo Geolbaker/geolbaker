@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is George Baker and i'm a Web Designer by trade.
+My name is George Baker and I'm a Web Designer / Web Developer by trade.
 
 I'm 23 years old.
 
